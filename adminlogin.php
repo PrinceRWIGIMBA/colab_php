@@ -1,5 +1,5 @@
 <?php
-// created by prince
+// created by prince..
 require_once 'db.php';
 $errors = [ 'email' => '', 'password' => ''];
 
