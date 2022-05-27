@@ -1,5 +1,5 @@
 <?php 
-//created by prince..
+//created by prince...
 include 'tableheader.php';
 require 'db.php';
 session_start();
