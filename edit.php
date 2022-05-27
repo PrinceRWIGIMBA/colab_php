@@ -1,4 +1,5 @@
 <?php
+//created by rodriguez..
 require 'db.php';
 $id = $_GET['id'];
 $sql = 'SELECT * FROM people WHERE id=:id';
