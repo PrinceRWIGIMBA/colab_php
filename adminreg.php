@@ -1,5 +1,5 @@
 <?php
-//created by prince...
+//created by prince.......
 require 'db.php';
 $message = '';
 if (isset ($_POST['username'])  && isset($_POST['email']) && isset($_POST['password']) ) {
