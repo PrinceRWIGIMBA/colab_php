@@ -1,4 +1,5 @@
 <?php
+// created by Rodriguez..
 require 'db.php';
 $message = '';
 if (isset ($_POST['name'])  && isset($_POST['email']) && isset($_POST['password']) ) {
