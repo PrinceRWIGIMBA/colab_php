@@ -1,4 +1,5 @@
 <?php
+//created by Rodriguez...
 $dsn = 'mysql:host=localhost;dbname=company';
 $username = 'root';
 $password = '';
