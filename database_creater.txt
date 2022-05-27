@@ -1,0 +1,7 @@
+database is created by Rodriguez and Prince
+
+description of our mini-project:
+===============================
+we work on php  mini-project using oop pdo that admin can upload files and user can download them using 
+there email and password provided by admin (it is the only one with full credetial of creating and delete 
+the user's account and can olso create other admin's account .   
