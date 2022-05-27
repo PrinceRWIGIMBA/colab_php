@@ -1,4 +1,5 @@
 <?php
+//created by Rodriguez
 require 'db.php';
 $id = $_GET['id'];
 $sql = 'DELETE FROM people WHERE id=:id';
